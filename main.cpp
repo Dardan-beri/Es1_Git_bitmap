@@ -3,7 +3,7 @@
 #include "BitmapImage.h"
 #include "Version.h"
 
-int main() {
+int main() { // 😳👉👈
     std::cout << "Image viewer " << VERSION << std::endl;
     BitmapImage b;
     std::string imgName = "test.png";
